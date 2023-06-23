@@ -1,9 +1,0 @@
-﻿  main.cpp
-D:\VSCode\June_2023\EbootEditor\EbootEditor\main.cpp(22,14): warning C4101: 'address': unreferenced local variable
-D:\VSCode\June_2023\EbootEditor\EbootEditor\main.cpp(23,16): warning C4101: 'bytes': unreferenced local variable
-  Generating code
-  0 of 213 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  EbootEditor.vcxproj -> D:\VSCode\June_2023\EbootEditor\x64\Release\EbootEditor.exe
